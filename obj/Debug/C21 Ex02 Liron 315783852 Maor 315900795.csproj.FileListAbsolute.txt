@@ -1,0 +1,8 @@
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\bin\Debug\C21 Ex02 Liron 315783852 Maor 315900795.exe
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\bin\Debug\C21 Ex02 Liron 315783852 Maor 315900795.pdb
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\obj\Debug\C21 Ex02 Liron 315783852 Maor 315900795.csprojAssemblyReference.cache
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\obj\Debug\C21 Ex02 Liron 315783852 Maor 315900795.csproj.CoreCompileInputs.cache
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\obj\Debug\C21 Ex02 Liron 315783852 Maor 315900795.csproj.CopyComplete
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\obj\Debug\C21 Ex02 Liron 315783852 Maor 315900795.exe
+C:\Users\MAHARIZI\source\repos\C21 Ex02 LironBenEzra 315783852 MaorMaharizi 315900795\obj\Debug\C21 Ex02 Liron 315783852 Maor 315900795.pdb
